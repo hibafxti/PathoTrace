@@ -1,0 +1,20 @@
+name,gram,shape,catalase,coagulase,hemolysis,bacitracin,optochin,site,treatment
+Staphylococcus aureus,positive,cocci,positive,positive,beta,,,"skin, lungs, blood","Nafcillin, vancomycin"
+Staphylococcus epidermidis,positive,cocci,positive,negative,gamma,,,"prosthetic devices, catheters",Vancomycin
+Staphylococcus saprophyticus,positive,cocci,positive,negative,gamma,,,urinary tract,TMP-SMX
+Streptococcus pyogenes (GAS),positive,cocci,negative,negative,beta,sensitive,,"throat, skin",Penicillin
+Streptococcus agalactiae (GBS),positive,cocci,negative,negative,beta,resistant,,neonatal CNS,Penicillin
+Streptococcus pneumoniae,positive,lancet diplococci,negative,negative,alpha,,sensitive,"lungs, meninges",Ceftriaxone
+Streptococcus viridans,positive,cocci,negative,negative,alpha,,resistant,"oral cavity, heart",Penicillin
+Enterococcus faecalis,positive,cocci,negative,negative,gamma,,,"urinary tract, heart",Ampicillin
+Enterococcus faecium,positive,cocci,negative,negative,gamma,,,"urinary tract, heart","Linezolid, daptomycin"
+Bacillus anthracis,positive,rod,positive,,gamma,,,"skin, lungs","Ciprofloxacin, doxycycline"
+Bacillus cereus,positive,rod,positive,,gamma,,,GI tract (food poisoning),Supportive
+Clostridium tetani,positive,rod,positive,,,,,nervous system,"Metronidazole, tetanus Ig"
+Clostridium botulinum,positive,rod,positive,,,,,"nervous system, GI","Antitoxin, supportive"
+Clostridium perfringens,positive,rod,positive,,alpha,,,"soft tissue, GI",Penicillin
+Clostridioides difficile,positive,rod,positive,,,,,GI (colon),"Oral vancomycin, fidaxomicin"
+Corynebacterium diphtheriae,positive,rod,positive,,beta,,,respiratory tract,Diphtheria antitoxin + penicillin
+Listeria monocytogenes,positive,rod,positive,,beta,,,"neonatal CNS, GI",Ampicillin
+Actinomyces israelii,positive,branching rod,positive,,,,,"oral, jaw, abscess",Penicillin
+Nocardia asteroides,positive,branching rod,positive,,,,,"lungs, CNS, skin",TMP-SMX
