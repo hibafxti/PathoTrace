@@ -6,4 +6,4 @@ It matches partial trait data to likely bacterial identities using structured lo
 
 This project is part of a larger exploration into how clinical reasoning can be codified, stress-tested, and made aesthetic.
 
-Currently works for gram positive organisms.
+Currently works for gram positive organisms; being updated to include more.
